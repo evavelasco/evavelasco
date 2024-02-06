@@ -1,6 +1,8 @@
  ### Hola, soy Eva!  🎆
 
 
+![Banner de LinkedIn Sencillo Tecnología](https://user-images.githubusercontent.com/116894398/211693734-29ab55d4-4b54-4cb6-916d-deecc9363a5d.png)
+
 # :man_technologist: Eva Maria Velasco Castañon
 
 <a href="https://www.linkedin.com/in/eva-maria-velasco-casta%C3%B1on-41b2802b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eva Maria Velasco" height="30" width="40" /></a>
