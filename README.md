@@ -29,6 +29,6 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-
----
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manu-estrada&show_icons=true&locale=en&layout=compact" alt="manu-estrada" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manu-estrada&show_icons=true&locale=en" alt="manu-estrada" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manu-estrada&" alt="manu-estrada" /></p>
