@@ -1,4 +1,4 @@
- ### Hola, soy Eva!  🎆
+ ### Hola, soy Eva!  🖥💻🖨⌨🖱
 
 
 ![Banner de LinkedIn Sencillo Tecnología](https://user-images.githubusercontent.com/116894398/211693734-29ab55d4-4b54-4cb6-916d-deecc9363a5d.png)
