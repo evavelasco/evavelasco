@@ -33,7 +33,9 @@
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evavelasco&show_icons=true&locale=en&layout=compact" alt="evavelasco" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evavelasco&show_icons=true&locale=en" alt="evavelasco" /></p>
