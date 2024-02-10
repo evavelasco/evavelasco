@@ -1,6 +1,5 @@
  ### Hola, soy Eva! 
-<img align="center" src="https://www.canva.com/design/DAF8aG9xc6Y/GGhdJNd85AXRYv3xq5IBKg/view">
-
+![cabeceracanva](https://www.canva.com/design/DAF8aG9xc6Y/GGhdJNd85AXRYv3xq5IBKg/view)
 
 
 
