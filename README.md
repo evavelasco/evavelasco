@@ -1,6 +1,6 @@
  ### Hola, soy Eva! 
 ![cabeceracanva](https://www.canva.com/design/DAF8aG9xc6Y/GGhdJNd85AXRYv3xq5IBKg/watch)
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF8aG9xc6Y&#x2F;GGhdJNd85AXRYv3xq5IBKg&#x2F;watch?utm_content=DAF8aG9xc6Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Banner de LinkedIn Profesional Rosa y Morado</a> de Eva Velasco
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF8aG9xc6Y&#x2F;GGhdJNd85AXRYv3xq5IBKg&#x2F;watch?utm_content=DAF8aG9xc6Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
 
 
