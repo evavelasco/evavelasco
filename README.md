@@ -1,5 +1,5 @@
  ### Hola, soy Eva! 
-![cabeceracanva](https://www.canva.com/design/DAF8aG9xc6Y/GGhdJNd85AXRYv3xq5IBKg/view)![Banner de LinkedIn Profesional Rosa y Morado (1)](https://github.com/evavelasco/evavelasco/assets/151158420/f26e816e-6ea1-4929-ac84-b4a94708bb1e)
+![cabeceracanva](https://github.com/evavelasco/evavelasco/assets/151158420/f26e816e-6ea1-4929-ac84-b4a94708bb1e)
 
 
 
