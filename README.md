@@ -2,14 +2,8 @@
  ![iconos](https://img.icons8.com/?size=48&id=111akfRsLxmf&format=png)![iconos](https://img.icons8.com/?size=48&id=iW8lAUAHOWlI&format=png)![iconos](https://img.icons8.com/?size=48&id=97QQcbzmnSfl&format=png)
 
 
-![bannergithubeva](https://github.com/evavelasco/evavelasco/assets/151158420/953472c5-79e8-4ae2-aebd-6e4096a1be83)
+![Bannergithubevavelasco](https://github.com/evavelasco/evavelasco/assets/151158420/6d828243-31e0-4853-8329-02ef9dbf69e8)
 
-<div
-  class="canva-embed"
-  data-height-ratio="0.8383"
-  data-design-id="DAF8aG9xc6Y"
-></div>
-<script async src="https://sdk.canva.com/v1/embed.js"></script>
 
 
 # :man_technologist: Eva Maria Velasco Castañon
