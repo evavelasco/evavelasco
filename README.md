@@ -4,25 +4,13 @@
 
 ![bannergithubeva](https://github.com/evavelasco/evavelasco/assets/151158420/953472c5-79e8-4ae2-aebd-6e4096a1be83)
 
-
 <div
   class="canva-embed"
   data-height-ratio="0.8383"
-  data-design-id="DACSWFLr08k"
-  style="padding:83.83% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+  data-design-id="DAF8aG9xc6Y"
 ></div>
 <script async src="https://sdk.canva.com/v1/embed.js"></script>
-<a
-  href="https://www.canva.com/design/DAF8aG9xc6Y/GGhdJNd85AXRYv3xq5IBKg/view?utm_content=DACSWFLr08k&utm_campaign=designshare&utm_medium=embeds&utm_source=link"
-  target="_blank"
-  >Why Canva makes embeds</a
->
-by
-<a
-  href="https://www.canva.com/dannykennedy2?utm_campaign=designshare&utm_medium=embeds&utm_source=link"
-  target="_blank"
-  >Dan Kennedy</a
->
+
 
 # :man_technologist: Eva Maria Velasco Castañon
 
