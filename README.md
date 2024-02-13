@@ -2,7 +2,7 @@
  ![iconos](https://img.icons8.com/?size=48&id=111akfRsLxmf&format=png)![iconos](https://img.icons8.com/?size=48&id=iW8lAUAHOWlI&format=png)![iconos](https://img.icons8.com/?size=48&id=97QQcbzmnSfl&format=png)
 
 
-![cabeceracanva]([https://github.com/evavelasco/evavelasco/assets/151158420/f26e816e-6ea1-4929-ac84-b4a94708bb1e]
+![cabeceracanva]([https://github.com/evavelasco/evavelasco/assets/151158420/f26e816e-6ea1-4929-ac84-b4a94708bb1e])
 
 
 
