@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/eva-maria-velasco-casta%C3%B1on-41b2802b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eva Maria Velasco" height="30" width="40" /></a>
 <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-[Correo electrónico](mailto:evavelascocast@gmail.com)
+![Correo electrónico](mailto:evavelascocast@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evavelasco&label=Profile%20views&color=0e75b6&style=flat" alt="evavelasco" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evavelasco" alt="evavelasco" /></a> </p>
